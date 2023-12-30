@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AbdulMobinFata.github.io/Come2Afghanistan2/static/css/main.bfe06443.css",
-    "main.js": "/AbdulMobinFata.github.io/Come2Afghanistan2/static/js/main.06f20d7a.js",
+    "main.js": "/AbdulMobinFata.github.io/Come2Afghanistan2/static/js/main.18772a87.js",
     "static/media/tour-img01.jpg": "/AbdulMobinFata.github.io/Come2Afghanistan2/static/media/tour-img01.9bb3fc0e5953be41559e.jpg",
     "static/media/remixicon.svg?t=1702724036775": "/AbdulMobinFata.github.io/Come2Afghanistan2/static/media/remixicon.a377e4c771db384f4bc5.svg",
     "static/media/hero-video.mp4": "/AbdulMobinFata.github.io/Come2Afghanistan2/static/media/hero-video.01cfd0437032b3239774.mp4",
@@ -27,10 +27,10 @@
     "static/media/slick.woff": "/AbdulMobinFata.github.io/Come2Afghanistan2/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/AbdulMobinFata.github.io/Come2Afghanistan2/index.html",
     "main.bfe06443.css.map": "/AbdulMobinFata.github.io/Come2Afghanistan2/static/css/main.bfe06443.css.map",
-    "main.06f20d7a.js.map": "/AbdulMobinFata.github.io/Come2Afghanistan2/static/js/main.06f20d7a.js.map"
+    "main.18772a87.js.map": "/AbdulMobinFata.github.io/Come2Afghanistan2/static/js/main.18772a87.js.map"
   },
   "entrypoints": [
     "static/css/main.bfe06443.css",
-    "static/js/main.06f20d7a.js"
+    "static/js/main.18772a87.js"
   ]
 }
