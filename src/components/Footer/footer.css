@@ -1,0 +1,47 @@
+.footer {
+  padding-top: 0px;
+  padding-bottom: 10px;
+}
+
+.footer .logo img {
+  width: 30%;
+}
+
+.footer .logo p {
+  color: var(--text-color);
+  margin: 10px;
+  font-size: 1rem;
+}
+.social__links span a {
+  text-decoration: none;
+  color: var(--heading-color);
+  font-size: 1.5rem;
+  margin: 0 8px;
+}
+
+.social__links span:hover {
+  transition: color 0.3s ease-in-out;
+}
+
+.footer__link-title {
+  color: var(--text-color);
+}
+
+.footer__quick-links li a {
+  text-decoration: none;
+  color: var(--text-color);
+  font-size: 1.1rem;
+}
+
+.contacts__icons {
+  color: var(--secondary-color);
+  font-size: 1.3rem;
+  padding-right: 10px;
+}
+
+.copyright {
+  color: #fff;
+  font-size: 1rem;
+  background: var(--secondary-color);
+  padding: 7px;
+}

@@ -1,0 +1,167 @@
+.home__section {
+  padding-top: 2rem;
+}
+
+.whatsapp-button {
+  position: fixed;
+  bottom: 3rem;
+  right: 2rem;
+  background-color: #25d366;
+  color: #fff;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.whatsapp-button i {
+  font-size: 2rem;
+}
+
+.whatsapp-button:hover {
+  background-color: #128c7e;
+}
+
+.hero__subtitle img {
+  width: 3rem;
+  height: 3rem;
+  transform: translateY(-3%);
+}
+
+.hero__content h1 {
+  font-size: 2.8rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  color: var(--heading-color);
+}
+
+.hero__content h1 .highlight {
+  color: var(--secondary-color);
+  margin: 1rem;
+}
+
+.hero__content p {
+  font-size: 1.1rem;
+  color: var(--text-color);
+  line-height: 1.8rem;
+  width: 80%;
+}
+
+.hero__img-boxes {
+  margin-left: rem;
+}
+
+.hero__img-box img,
+.hero__img-box video {
+  width: 100%;
+  height: 350px;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+.hero__content {
+  padding-top: 3.5rem;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.hero__img-box {
+  padding-top: 2rem;
+}
+
+.services__subtitle {
+  margin-top: 3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  color: #ee6e6e;
+  font-family: var(--subtitle-font-name);
+}
+
+.services__title {
+  font-size: 2.5rem;
+  font-weight: 500;
+}
+
+.experience__content p {
+  padding-top: 2rem;
+}
+
+.featured__tour-title {
+  font-size: 2.5rem;
+  font-weight: 500;
+}
+
+.experience__content h2 {
+  font-size: 2.5rem;
+  margin-top: 1rem;
+  font-weight: 500;
+}
+
+.experience__content p {
+  font-size: 1.1rem;
+  color: var(--text-color);
+  margin-top: 1rem;
+}
+
+.counter__wrapper {
+  margin-top: 2.5rem;
+}
+
+.counter__box span {
+  width: 70px;
+  height: 70px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--primary-color);
+  color: #fff;
+  font-size: 1.6rem;
+  font-weight: 600;
+  border-radius: 10px 5px 10px 5px;
+}
+.counter__box h6 {
+  font-size: 1.1rem;
+  margin-top: 0.7rem;
+  color: var(--text-color);
+}
+
+.experience__img img {
+  width: 90%;
+}
+
+.gallery__title {
+  font-size: 2.3rem;
+  margin-bottom: 2.5rem;
+  margin-top: 1rem;
+}
+
+.masonry__img {
+  transition: 0.3s;
+}
+
+.masonry__img:hover {
+  transform: scale(1.1);
+}
+
+.testimonial__title {
+  font-size: 2.3rem;
+  margin-top: 1rem;
+}
+
+.questions__title {
+  font-size: 2.3rem;
+  margin-top: 1rem;
+  margin-bottom: 2.5rem;
+}
+
+.tourist__new-title {
+  font-size: 2.3rem;
+  margin-top: 1rem;
+  margin-bottom: 2.5rem;
+}
